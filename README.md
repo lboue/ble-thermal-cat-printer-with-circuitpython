@@ -7,6 +7,14 @@
 ### Adafruit BLE Library
  * [Adafruit BLE Library](https://docs.circuitpython.org/projects/ble/en/latest/api.html)
 
+**Scanning MX10**
+ * [ble_detailed_scan.py](https://github.com/adafruit/Adafruit_CircuitPython_BLE/blob/main/examples/ble_detailed_scan.py)
+```
+scanning
+<Address 1a:11:27:26:bd:03> <ProvideServicesAdvertisement flags=<AdvertisingFlags general_discovery le_only > services=<BoundServiceList: UUID(0xaf30)> >
+	Advertisement(data=b"\x03\x03\x30\xaf\x02\x01\x06")
+```
+
 ### Using The MX10 Thermal Printer
 
 * Power on the printer (you can tell it's powered on when the blue LED blinks), then power on your CLUE.
