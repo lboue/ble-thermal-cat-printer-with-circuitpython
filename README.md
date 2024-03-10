@@ -4,6 +4,9 @@
 
 [BLE Thermal "Cat" Printer with CircuitPython](https://learn.adafruit.com/ble-thermal-cat-printer-with-circuitpython)
 
+### Adafruit BLE Library
+ * [Adafruit BLE Library](https://docs.circuitpython.org/projects/ble/en/latest/api.html)
+
 ### Using The MX10 Thermal Printer
 
 * Power on the printer (you can tell it's powered on when the blue LED blinks), then power on your CLUE.
