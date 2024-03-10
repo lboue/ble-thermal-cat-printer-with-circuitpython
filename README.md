@@ -1,8 +1,16 @@
 # BLE Thermal "Cat" Printer with CircuitPython
 
 ### Overview
-
 [BLE Thermal "Cat" Printer with CircuitPython](https://learn.adafruit.com/ble-thermal-cat-printer-with-circuitpython)
+
+## BLE
+
+### Introduction to Bluetooth Low Energy
+ * [Introduction to Bluetooth Low Energy](https://learn.adafruit.com/introduction-to-bluetooth-low-energy)
+
+### BLE Sniffer with nRF52840
+ * [BLE Sniffer with nRF52840](https://learn.adafruit.com/ble-sniffer-with-nrf52840)
+
 
 ### Adafruit BLE Library
  * [Adafruit BLE Library](https://docs.circuitpython.org/projects/ble/en/latest/api.html)
