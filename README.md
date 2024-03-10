@@ -10,7 +10,8 @@
 
 ### BLE Sniffer with nRF52840
  * [BLE Sniffer with nRF52840](https://learn.adafruit.com/ble-sniffer-with-nrf52840)
-
+ * [nRF Sniffer for Bluetooth LE](https://infocenter.nordicsemi.com/index.jsp?topic=%2Fug_sniffer_ble%2FUG%2Fsniffer_ble%2Finspecting_data.html)
+ * [nRF Connect SDK IEEE 802.15.4 Sniffer](https://docs.nordicsemi.com/bundle/ncs-latest/page/nrf/samples/peripheral/802154_sniffer/README.html#building_and_running)
 
 ### Adafruit BLE Library
  * [Adafruit BLE Library](https://docs.circuitpython.org/projects/ble/en/latest/api.html)
