@@ -2,7 +2,9 @@
 
 * [Bluetooth 'cat' thermal printer review By Jo Hinchliffe](https://hackspace.raspberrypi.com/articles/bluetooth-cat-thermal-printer-review)
 
-The printer has an internal battery, which needs charging via a micro USB cable (included). Once charged, a single button press (there is only one button) turns the unit on. Double-pressing the button causes the printer to print a test page that features a QR code and some details, including the device Bluetooth name and the pairing PIN.
+The printer has an internal battery, which needs charging via a micro USB cable (included). Once charged
+ * Single button press (there is only one button) turns the unit on.
+ * Double-pressing the button causes the printer to print a test page that features a QR code and some details, including the device Bluetooth name and the pairing PIN.
 
 ### Overview
 [BLE Thermal "Cat" Printer with CircuitPython](https://learn.adafruit.com/ble-thermal-cat-printer-with-circuitpython)
