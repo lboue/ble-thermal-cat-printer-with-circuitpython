@@ -41,7 +41,7 @@ scanning
 
 ### Thermal Printer Demo
  
- * Thermal Printer Demo](https://github.com/bitbank2/Thermal_Printer/blob/master/examples/Thermal_Printer_Demo/Thermal_Printer_Demo.ino)
+ * [Thermal Printer Demo](https://github.com/bitbank2/Thermal_Printer/blob/master/examples/Thermal_Printer_Demo/Thermal_Printer_Demo.ino)
 
 Logs
 ```
